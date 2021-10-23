@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--  TEXTS  -->
+    <style name="TitleText" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="BrandText" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="NameText" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="AnnotationText" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">11sp</item>
+    </style>
+
+    <style name="PriceText" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- BUTTON -->
+    <style name="NotinoBtn" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/ripple_basket</item>
+        <item name="android:textSize">11sp</item>
+        <item name="android:minHeight">30dp</item>
+        <item name="android:minWidth">80dp</item>
+    </style>
+
+</resources>

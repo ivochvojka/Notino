@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NotinoApp</string>
+    <string name="app_title">Notino</string>
+    <string name="product_price">%d Kč</string>
+    <string name="product_btn">DO KOŠÍKU</string>
+
+    <!-- ERRORS -->
+    <string name="error_title">Při načítání dat došlo k chybě</string>
+    <string name="error_btn_ok">OK</string>
+</resources>
